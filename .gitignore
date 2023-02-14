@@ -1,34 +1,4 @@
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Tezzyray 
-Tezzyray
-/
-datafun-03-datatypes
-Public
-forked from denisecase/datafun-03-datatypes
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-datafun-03-datatypes/.gitignore
-@denisecase
-denisecase initial commit
-Latest commit 8da3774 on Jan 8
- History
- 1 contributor
-168 lines (133 sloc)  2.47 KB
-
 #### IGNORE / DON't COMMIT THESE FILES TO THE REPO
 
 # Files with secrets (e.g. our email and password)
